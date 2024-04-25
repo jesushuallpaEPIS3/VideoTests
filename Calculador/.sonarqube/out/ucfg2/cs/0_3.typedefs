@@ -1,0 +1,7 @@
+Ë
+%Calculator.Services.CalculatorServiceobjectj
+ Add(Calculator.Models.Operation)FCalculator.Services.CalculatorService.Add(Calculator.Models.Operation)t
+%Subtract(Calculator.Models.Operation)KCalculator.Services.CalculatorService.Subtract(Calculator.Models.Operation)t
+%Multiply(Calculator.Models.Operation)KCalculator.Services.CalculatorService.Multiply(Calculator.Models.Operation)p
+#Divide(Calculator.Models.Operation)ICalculator.Services.CalculatorService.Divide(Calculator.Models.Operation)P
+CalculatorService()9Calculator.Services.CalculatorService.CalculatorService()

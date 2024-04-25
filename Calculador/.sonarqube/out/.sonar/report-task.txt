@@ -1,0 +1,7 @@
+organization=jesushuallpaepis3
+projectKey=calculador
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53978
+dashboardUrl=https://sonarcloud.io/dashboard?id=calculador
+ceTaskId=AY8VTUbHLXQMdAsvx0XO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8VTUbHLXQMdAsvx0XO

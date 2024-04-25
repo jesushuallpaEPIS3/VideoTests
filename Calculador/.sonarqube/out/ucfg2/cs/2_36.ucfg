@@ -1,0 +1,27 @@
+
+>WeatherForecast.WeatherForecast(System.DateOnly, int, string?)ˆ
+~C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Program.cs) )("0*Ü
+0p
+n
+) ,(
+%0System.DateOnly"WeatherForecast.Date.init*
+WeatherForecast*
+
+DateSystem.DateOnlyh
+f
+) ,(	
+%1int"!WeatherForecast.TemperatureC.init*
+WeatherForecast*
+
+TemperatureCintd
+b
+) ,(
+%2string"WeatherForecast.Summary.init*
+WeatherForecast*
+
+Summarystring"
+implicit return:
+DateSystem.DateOnly:
+TemperatureCint:
+SummarystringB
+WeatherForecastX

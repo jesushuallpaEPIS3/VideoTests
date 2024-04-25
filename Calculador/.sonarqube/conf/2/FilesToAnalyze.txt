@@ -1,0 +1,11 @@
+﻿C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Models\CalculatorService.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Models\Operation.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Program.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\obj\Debug\net8.0\Calculador.WebApi.GlobalUsings.g.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\obj\Debug\net8.0\Calculador.WebApi.AssemblyInfo.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\obj\Debug\net8.0\Calculador.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\appsettings.Development.json
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\appsettings.json
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Calculador.WebApi.http
+C:\Users\OVALTECH\OneDrive - UNIVERSIDAD PRIVADA DE TACNA\Documentos\GitHub\VideoTests\Calculador\Calculador.WebApi\Properties\launchSettings.json
